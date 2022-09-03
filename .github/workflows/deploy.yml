@@ -9,7 +9,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: store
+  RESOURCE_GROUP_NAME: cwstore
 
 
   # specify your preferred region
